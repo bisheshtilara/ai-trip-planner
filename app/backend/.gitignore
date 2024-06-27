@@ -1,0 +1,10 @@
+**/__pycache__
+secret.json
+.env
+
+**/*.ipynb
+**/trained_model*
+**/model/*.json
+
+**/*.csv
+**/*.txt
